@@ -1,0 +1,6 @@
+# Create a line graph of trends over time
+plt.plot(df['year'], df['sellingprice'], color='orange')
+plt.title('Trends Over Time')
+plt.xlabel('Year')
+plt.ylabel('sellingprice')
+plt.show()
