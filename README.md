@@ -57,6 +57,7 @@ at the lower end of the price spectrum. The
 skewness indicates a higher prevalence of 
 affordable cars, while the histogram indicates that 
 most cars are priced below $30,000.
+
 The line graph illustrates the selling price trends 
 over time, depicting fluctuations and variations in 
 car prices across different years. Selling prices 
@@ -68,6 +69,7 @@ prices compared to others. Further analysis could
 explore factors influencing these variations, such 
 as changes in demand, economic conditions, or 
 new car introductions. 
+
 The correlation matrix reveals relationships 
 between variables in the dataset. It shows a 
 moderate positive correlation (0.261) between 
@@ -91,6 +93,7 @@ correlation coefficient is displayed in each cell,
 with warmer colors indicating positive 
 correlations and cooler colors indicating negative 
 ones. 
+
  The year of manufacture correlates moderately 
 positively (0.204) with selling price, implying 
 newer cars tend to fetch higher prices. Car 
@@ -102,7 +105,8 @@ with price, indicating lower mileage correlates
 with higher prices. The Manheim Market Report 
 (MMR) displays a strong positive correlation 
 (0.708) with price, indicating higher MMR values 
-are linked to higher selling prices. 
+are linked to higher selling prices.
+
 This report offers valuable insights into the 
 dynamics of car pricing, highlighting the influence 
 of various factors on selling prices. Further 
