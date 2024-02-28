@@ -1,14 +1,1 @@
-non_numeric_cols = df.select_dtypes(exclude=['number']).columns
-print("Non-numeric columns:", non_numeric_cols)
 
-# Handle non-numeric values
-# For example, you can encode categorical variables or handle missing values
-# For simplicity, we'll just drop non-numeric columns in this example
-df_numeric = df.select_dtypes(include=['number'])
-
-# Calculate correlation matrix
-correlation_matrix = df_numeric.corr()
-
-# Display correlation matrix
-print("Correlation Matrix:")
-print(correlation_matrix)
