@@ -1,6 +1,1 @@
-# Create a histogram of a numerical variable
-plt.hist(df['sellingprice'], bins=20, color='skyblue', edgecolor='black')
-plt.title('Distribution of Data')
-plt.xlabel('Year')
-plt.ylabel('Frequency')
-plt.show()
+
