@@ -15,3 +15,7 @@ print("Missing Values:\n", missing_values)
 
 # Handle missing values
 df.dropna(inplace=True)
+
+# Descriptive statistics
+descriptive_stats = df.describe()
+print("Descriptive Statistics:\n", descriptive_stats)
