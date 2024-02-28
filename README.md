@@ -4,7 +4,7 @@ Report on Car Prices over Years
 Student Name: Sandeep Mannavarapu 
 Student Number: 23017860 
 GitHub Repository: 
-https://github.com/Sandeep23017860/Statistics and-Trends
+https://github.com/Sandeep23017860/Statistics-and-Trends 
 
 This report aims to conduct an exploratory data 
 analysis (EDA) on the Kaggle "Car Prices 
@@ -14,8 +14,8 @@ respective prices. Through this analysis, our aim
 is to uncover insightful patterns and trends within 
 the data, thereby gaining a better understanding 
 of the factors influencing car prices. 
- year condition odometer mar Selling 
-price 
+year condition odometer mar Selling price 
+
 Count 520 520 520 520 520 
 Mean 2013 33.507 25013.94 22953.31 22290.1 
 std 0.635 15.30 44963.39 12469.64 12402.3 
