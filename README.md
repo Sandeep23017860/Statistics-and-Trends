@@ -4,8 +4,8 @@ Report on Car Prices over Years
 Student Name: Sandeep Mannavarapu 
 Student Number: 23017860 
 GitHub Repository: 
-https://github.com/Sandeep23017860/Statistics
-and-Trends 
+https://github.com/Sandeep23017860/Statistics and-Trends
+
 This report aims to conduct an exploratory data 
 analysis (EDA) on the Kaggle "Car Prices 
 Dataset". This dataset encompasses information 
