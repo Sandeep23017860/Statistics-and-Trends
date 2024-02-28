@@ -1,8 +1,10 @@
 Exploratory Data Analysis 
 Report on Car Prices over Years 
  
-Student Name: Sandeep Mannavarapu 
-Student Number: 23017860 
+Student Name: Sandeep Mannavarapu
+
+Student Number: 23017860
+
 GitHub Repository: 
 https://github.com/Sandeep23017860/Statistics-and-Trends 
 
